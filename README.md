@@ -7,7 +7,7 @@ https://git-scm.com/downloads
 ## Prepare Working Directory  
 - mkdir website "I used this command "mkdir" to create a directory and named it website"
 - cd website "I used this command "cd" to change to my directory website"
-- git init "I used this command "git init" to initialize a new Git repository in my local directory in my pc"
+- git init "I used this command "git init" to initialize a new Git repository in my local directory in my Pc"
 - touch index.html "I used this command "touch" to create an empty index.html file"
 - vim index.html "I used this command "vim" to edit the html file"
 - :wq "I first pressed the esc key then pressed the shift key then this commmand to save the file and exit"
